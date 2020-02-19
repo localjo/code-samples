@@ -4,7 +4,7 @@ These are links to code I've written for various exercises or demos. Most of the
 
 ## React Apps
 
-- [Trivia Demo](https://github.com/localjo/trivia-demo): A trivia app demo I built using React, TypeScript, Redux, React Router, React Transition Group and Jest. [Live Demo](https://iamlocaljo.com/trivia-demo/)
+- [Trivia Demo](https://github.com/localjo/trivia-demo): A trivia app demo I built using React, TypeScript, Redux, React Router, React Transition Group and Jest ([Live Demo](https://iamlocaljo.com/trivia-demo/)).
 - [Giphy Signal](https://github.com/localjo/giphy-signal): A lightweight GIF search engine I built as a demo.
 - [Ethereum App Demo](https://github.com/localjo/ethereum-app-demo): A demo Twitter-like poll app that I built to learn Solidity.
 - [Kanban Demo](https://github.com/localjo/kanban-takehome): A basic Kanban board with drag and drop that I built as a demo.
