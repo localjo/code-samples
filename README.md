@@ -4,12 +4,13 @@ These are links to code I've written for various exercises or demos. Most of the
 
 ## React Apps
 
-- [Giphy Signal](https://github.com/localjo/giphy-signal): A lightweight GIF search engine I built for an interview.
+- [Trivia Demo](https://github.com/localjo/trivia-demo): A trivia app demo I built using React, TypeScript, Redux, React Router, React Transition Group and Jest. [Live Demo](https://iamlocaljo.com/trivia-demo/)
+- [Giphy Signal](https://github.com/localjo/giphy-signal): A lightweight GIF search engine I built as a demo.
 - [Ethereum App Demo](https://github.com/localjo/ethereum-app-demo): A demo Twitter-like poll app that I built to learn Solidity.
-- [Kanban Demo](https://github.com/localjo/kanban-takehome): A basic Kanban board with drag and drop that I built for an interview.
+- [Kanban Demo](https://github.com/localjo/kanban-takehome): A basic Kanban board with drag and drop that I built as a demo.
 - [Layers Search Component](https://github.com/localjo/layers-search): A demo of a very fast search component I built while working on NASA Worldview.
-- [Messages 4 Evar](https://github.com/localjo/messages-4-evar): A demo I built for an interview that shows infinite scrolling messages that can be swiped to delete.
-- [Campsite Example](https://github.com/localjo/campsite-example): A campsite listing page I built for an interview.
+- [Messages 4 Evar](https://github.com/localjo/messages-4-evar): A demo I built that shows infinite scrolling messages that can be swiped to delete.
+- [Campsite Example](https://github.com/localjo/campsite-example): A campsite listing page I built as a demo.
 
 ## Other Samples
 
