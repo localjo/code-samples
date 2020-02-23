@@ -4,7 +4,10 @@ These are links to code I've written for various exercises or demos. Most of the
 
 ## React Apps
 
-- [Trivia Demo](https://github.com/localjo/trivia-demo): A trivia app demo I built using React, TypeScript, Redux, React Router, React Transition Group and Jest ([Live Demo](https://iamlocaljo.com/trivia-demo/)).
+| Name/Description | Links | Technologies |
+|------------------|-------|--------------|
+| **Trivia Demo** <br> A trivia app demo I built using React, TypeScript, Redux, React Router, React Transition Group and Jest  | [Code Repo](https://github.com/localjo/trivia-demo) <br> [Live Demo](https://iamlocaljo.com/trivia-demo/) | ![TypeScript](https://img.shields.io/badge/typescript-007ACC?logo=typescript&style=for-the-badge&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=white) ![Redux](https://img.shields.io/badge/redux-764ABC?logo=redux&style=for-the-badge&logoColor=white) ![React Router](https://img.shields.io/badge/react--router-CA4245?logo=react-router&style=for-the-badge&logoColor=white) ![Jest](https://img.shields.io/badge/jest-C21325?logo=jest&style=for-the-badge&logoColor=white) ![react-transition-group](https://img.shields.io/badge/react--transition--group-CA4245?style=for-the-badge) |
+
 - [Giphy Signal](https://github.com/localjo/giphy-signal): A lightweight GIF search engine I built as a demo.
 - [Ethereum App Demo](https://github.com/localjo/ethereum-app-demo): A demo Twitter-like poll app that I built to learn Solidity.
 - [Kanban Demo](https://github.com/localjo/kanban-takehome): A basic Kanban board with drag and drop that I built as a demo.
